@@ -26,7 +26,7 @@ public class MainRoom extends JPanel{
 	private Player123 player;
 	private PlayerLabel pl = new PlayerLabel();
 	private Pyosi pyosi;
-	
+	//
 	private Image room = new ImageIcon("src/miniproject/images/camera/mainroom.jpg").getImage();
 	private Image talk = new ImageIcon("src/miniproject/images/ssing/talkframe.png").getImage();
 	
